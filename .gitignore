@@ -1,0 +1,9 @@
+/node_modules/
+/dist
+/src/artifacts/**/*
+/tmp
+.history
+
+.DS_Store
+.env
+yarn-error.log
